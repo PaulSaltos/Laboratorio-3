@@ -82,9 +82,12 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 ![image](https://user-images.githubusercontent.com/85178869/122169857-85ed8a80-ce43-11eb-86c1-30b7bec8bd73.png)
 
 NODO B
+![image](https://user-images.githubusercontent.com/85178869/122235424-4cd50a80-ce83-11eb-9746-e841686ef79b.png)
 
 
 NODO C
+
+![image](https://user-images.githubusercontent.com/85178869/122235604-73934100-ce83-11eb-96b6-12c52eed62f2.png)
 
 # 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
