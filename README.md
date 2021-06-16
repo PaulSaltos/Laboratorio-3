@@ -114,7 +114,7 @@ Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
 
 # 5. VIDEO
 
-https://youtu.be/YASt4osYZUA
+https://youtu.be/QRqZrw-nSQw
 
 
 # 6. CONCLUSIONES 
