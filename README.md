@@ -76,5 +76,10 @@ Anotamos los nodos que hay en el circuito cada voltaje
 
 Todos estos valores también pueden ser obtenidos resolviendo el circuito por el método teórico de Análisis de Nodos
 
+![image](https://user-images.githubusercontent.com/85178869/122169857-85ed8a80-ce43-11eb-86c1-30b7bec8bd73.png)
+
+# 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
 
 
