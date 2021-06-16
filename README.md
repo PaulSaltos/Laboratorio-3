@@ -102,11 +102,14 @@ NODO C
 
 ![image](https://user-images.githubusercontent.com/85178869/122236459-25327200-ce84-11eb-8828-acda70cd8b27.png)
 
+![image](https://user-images.githubusercontent.com/85178869/122244460-84938080-ce8a-11eb-8d30-c671a01c88cc.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122244547-970dba00-ce8a-11eb-9f84-a2821098ff4c.png)
 
 
 Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
 
-
+![image](https://user-images.githubusercontent.com/85178869/122244609-a1c84f00-ce8a-11eb-9da0-9e119dea05dc.png)
 
 
 # 5. VIDEO
