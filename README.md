@@ -94,7 +94,7 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 ![image](https://user-images.githubusercontent.com/85178869/122170597-5a1ed480-ce44-11eb-9594-8566c9df7370.png)
 
-
+![image](https://user-images.githubusercontent.com/85178869/122176484-437b7c00-ce4a-11eb-805b-70a11031f7c1.png)
 
 ![image](https://user-images.githubusercontent.com/85178869/122170684-79b5fd00-ce44-11eb-90e0-bfdfd36bd625.png)
 
