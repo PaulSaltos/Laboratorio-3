@@ -81,24 +81,14 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 ![image](https://user-images.githubusercontent.com/85178869/122169857-85ed8a80-ce43-11eb-86c1-30b7bec8bd73.png)
 
+NODO B
+
+
+NODO C
+
 # 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
-![image](https://user-images.githubusercontent.com/85178869/122170325-11671b80-ce44-11eb-8027-4085a80326a9.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122170396-22179180-ce44-11eb-84d4-49b01b6a6a3b.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122170470-35c2f800-ce44-11eb-9830-cb012c0b57d5.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122170557-4d01e580-ce44-11eb-91ab-c22928811ebf.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122170597-5a1ed480-ce44-11eb-9594-8566c9df7370.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122176484-437b7c00-ce4a-11eb-805b-70a11031f7c1.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122170684-79b5fd00-ce44-11eb-90e0-bfdfd36bd625.png)
-
-![image](https://user-images.githubusercontent.com/85178869/122170728-86d2ec00-ce44-11eb-82b6-6083b70b22ac.png)
 
 
 
