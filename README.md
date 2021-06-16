@@ -92,7 +92,23 @@ NODO C
 # 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
+![image](https://user-images.githubusercontent.com/85178869/122236179-ea303e80-ce83-11eb-9ad0-531efd8d7a50.png)
 
+![image](https://user-images.githubusercontent.com/85178869/122236248-f87e5a80-ce83-11eb-86e8-befc4245806c.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122236320-08963a00-ce84-11eb-9c2d-32951f3f089d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122236396-18ae1980-ce84-11eb-8f9e-63e6a9fb828d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122236459-25327200-ce84-11eb-8828-acda70cd8b27.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122236512-311e3400-ce84-11eb-8c8c-fb9b64fffc77.png)
+
+![image](https://user-images.githubusercontent.com/85178869/122236554-3d09f600-ce84-11eb-9eb8-92435e31b039.png)
+
+Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
+
+![image](https://user-images.githubusercontent.com/85178869/122236640-4bf0a880-ce84-11eb-9599-ffe2a1b8f225.png)
 
 
 # 5. VIDEO
