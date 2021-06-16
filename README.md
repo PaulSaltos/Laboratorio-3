@@ -36,3 +36,45 @@ Utilizar el análisis por voltaje de nodos como una herramienta adicional para l
 
 # 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/85178869/122168070-6ce3da00-ce41-11eb-8672-0a4704d9cc94.png)
+
+# 3.EXPLICACIÓN DEL PROCEDIMIENTO
+
+En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+
+MATERIALES Y EQUIPO REQUERIDO
+
+• Fuente de voltaje de C.D
+
+• Multimetro digital
+
+• Resistor de 1.8KΩ
+
+• Resistor de 470 Ω
+
+• Resistor de 1.5 kΩ
+
+• Resistor de 3.9kΩ
+
+• Resistor de 2.2 kΩ
+
+• Protoboard
+
+Utilizamos el simulador para hacer el circuito electrico
+
+Utilizamos un protoboard
+
+Construir en el protoboard cada uno de los circuitos
+
+Colocamos los resistores en el protoboard en cada uno de los pines del protoboard
+
+Instalamos las  fuente de voltaje
+
+Efectuar y registrar las siguientes mediciones con el Multimetro digital
+
+Anotamos los nodos que hay en el circuito cada voltaje 
+
+Todos estos valores también pueden ser obtenidos resolviendo el circuito por el método teórico de Análisis de Nodos
+
+
+
