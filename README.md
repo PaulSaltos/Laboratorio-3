@@ -107,4 +107,23 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 
 
+# 6. CONCLUSIONES 
+
+• Aprendimos también que las leyes de Kirchhoff facilitan bastante el cálculo de mallas y nodos en un circuito electrónico y que su desfasamiento simplemente se debe al margen de error de las resistencias que componen el circuito.
+
+• Una de las ventajas que nos da este método es que nos brinda un sistema de ecuaciones para luego poder hallar lo que deseamos
+
+• La efectividad de la técnica que utilizamos (análisis de nodos  en conjunto con la ley de ohm) fue muy efectiva,sin embargo la variación o el margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito
+
+• Mediante el desarrollo de esta presentacion aprendi que es de suma importancia que planteo el señor Gustav kirchhoff ya que podemos conocer el comportamiento de los circuitos electronicos mediante los analisis de nodos puedo comprbar que cuando son los valores que dan la corriente, los voltajes de cada una de las resistencias para calcular el correcto funcionamiento de los circuitos electronicos.
+
+# 7. Bibliografia Web 
+
+https://www.docsity.com/es/circuitos-electronicos-6/4518551/
+
+https://es.wikipedia.org/wiki/An%C3%A1lisis_de_nodos
+
+https://www.slideshare.net/anthonycunyachavez/anlisis-nodal-y-mallas
+
+https://tableroalparque.weebly.com/uploads/5/1/6/9/51696511/tecnicas_de_an%C3%81lisis_de_circuitos.pdf
 
