@@ -104,7 +104,7 @@ Todos estos valores también pueden ser obtenidos resolviendo el circuito por el
 
 # 5. VIDEO
 
-
+https://youtu.be/YASt4osYZUA
 
 
 # 6. CONCLUSIONES 
